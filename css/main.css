@@ -1,0 +1,79 @@
+.jumbotron   { 
+   background-image: url('../img/salikuva.jpg');
+   background-attachment: fixed;
+   background-position: center;
+   background-size: cover
+}
+
+.jumbotron .container h1 {
+	color: #fff;
+    font-size: 70px;
+    font-weight: bold;
+    font-family: 'Cuprum', sans-serif;
+   	text-shadow: 2px 2px 15px #000;
+}
+
+.jumbotron .container h2 {
+	color: #fff;
+	font-size: 48px;
+    font-weight: bold;
+    font-family: 'Cuprum', sans-serif;
+    text-shadow: 2px 2px 15px #000;
+}
+/*
+.jumbotron .container td h2 {
+	padding-left: 0.5em;
+	font-size: 30px;
+	color: #800000;
+	text-shadow: 2px 2px 15px #fff;
+}
+*/
+h1 {
+	font-family: 'Cuprum', sans-serif;
+	font-size: 50px;
+}
+
+h2 {
+	font-family: 'Cuprum', sans-serif;
+	font-size: 35px;
+}
+
+h3 {
+	font-family: 'Cuprum', sans-serif;
+}
+
+p {
+	color: #000;
+	font-size: 18px;
+    font-family: 'Dosis', sans-serif;
+}
+
+.nav a, .nav a:hover {
+	text-transform: uppercase;
+    font-size: 30px;
+    color: #000;
+    font-family: 'Dosis', sans-serif;
+}
+
+a, a:hover {
+	color: #800000;
+}
+
+.table td {
+	color: #000;
+	font-size: 18px;
+    font-family: 'Dosis', sans-serif;
+}
+.table th {
+	color: #000;
+	font-size: 22px;
+    font-family: 'Dosis', sans-serif;
+}
+
+#herakles-logo  {
+  font-family: 'Crimson Text';
+  font-weight: bold;
+  font-variant: small-caps;
+  font-size: 50pt;
+  color: #800000
+}
