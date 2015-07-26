@@ -9,6 +9,14 @@ angular.module('PNSM2015', ['ngRoute'])
         
         templateUrl: 'info.html'
       })
+      .when('/20v', {
+        
+        templateUrl: '20v.html'
+      })
+      .when('/23v', {
+        
+        templateUrl: '23v.html'
+      })
       .when('/ilmo', {
         
         templateUrl: 'ilmo.html'
